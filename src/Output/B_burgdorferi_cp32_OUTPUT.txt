@@ -1,0 +1,9 @@
+bp_length: 15; starting point difference: 40; minimum matches accounted: 3
+
+>AE001577_Borrelia_burgdorferi_B31_cp32-4
+Total matched sequences: 2
+
+TGTAGAAAAGAATTT : 3 matches; Starting positions: 16696 16816 22140
+GAAAAGAATTTAAAT : 3 matches; Starting positions: 16700 16766 16820
+
+

@@ -1,0 +1,426 @@
+>AE001577_Borrelia_burgdorferi_B31_cp32-4
+Total matched sequences: 139
+
+ATTTT : 6 matches; Starting positions: 0 133 417 627 737 1056
+TTTTA : 9 matches; Starting positions: 1 136 306 561 635 738 869 994 1059
+TTTAT : 4 matches; Starting positions: 2 573 739 870
+TTATT : 5 matches; Starting positions: 3 186 574 903 1048
+TATTG : 3 matches; Starting positions: 4 367 613
+ATTGA : 3 matches; Starting positions: 5 149 614
+ACAAA : 5 matches; Starting positions: 9 83 120 639 760
+CAAAA : 4 matches; Starting positions: 10 84 761 954
+AAAAA : 7 matches; Starting positions: 11 59 79 313 529 841 955
+AAAAT : 7 matches; Starting positions: 12 98 153 442 479 762 956
+AAATA : 7 matches; Starting positions: 13 99 122 480 600 853 908
+AATAT : 4 matches; Starting positions: 14 130 353 393
+ATATT : 4 matches; Starting positions: 15 131 570 786
+TATTA : 4 matches; Starting positions: 16 271 904 1049
+TTAGT : 5 matches; Starting positions: 18 213 308 653 918
+TAGTT : 3 matches; Starting positions: 19 892 919
+AGTTT : 3 matches; Starting positions: 20 893 992
+GTTTT : 7 matches; Starting positions: 21 285 305 372 634 868 993
+TTTTT : 6 matches; Starting positions: 22 134 560 628 748 1057
+TTTTG : 5 matches; Starting positions: 23 373 418 630 750
+TTGCT : 3 matches; Starting positions: 25 228 831
+TGCTA : 4 matches; Starting positions: 26 229 832 889
+TATCA : 3 matches; Starting positions: 29 499 819
+ATCAT : 4 matches; Starting positions: 30 423 500 774
+TCTAA : 3 matches; Starting positions: 38 791 850
+CTAAT : 4 matches; Starting positions: 39 89 329 792
+TAATT : 5 matches; Starting positions: 40 265 793 945 1045
+AATTT : 3 matches; Starting positions: 41 626 794
+ATTTA : 4 matches; Starting positions: 42 72 572 795
+TTTAA : 6 matches; Starting positions: 43 73 694 796 995 1060
+TTAAT : 5 matches; Starting positions: 44 264 351 807 944
+TAATA : 5 matches; Starting positions: 45 90 330 352 715
+AATAA : 5 matches; Starting positions: 46 100 452 716 854
+ATAAA : 4 matches; Starting positions: 47 96 435 486
+TAAAG : 9 matches; Starting positions: 48 237 436 781 927 973 1009 1030 1062
+AAAGA : 8 matches; Starting positions: 49 320 531 586 606 641 782 974
+AAGAG : 3 matches; Starting positions: 50 400 975
+GAGAA : 3 matches; Starting positions: 52 754 1085
+AGAAG : 3 matches; Starting positions: 53 163 989
+GAAGT : 3 matches; Starting positions: 54 729 990
+AAGTA : 3 matches; Starting positions: 55 438 844
+AGTAA : 7 matches; Starting positions: 56 310 439 713 779 845 1043
+GTAAA : 5 matches; Starting positions: 57 311 440 780 1029
+TAAAA : 7 matches; Starting positions: 58 97 312 441 478 528 840
+AAAAG : 5 matches; Starting positions: 60 488 530 585 842
+AAAGG : 6 matches; Starting positions: 61 238 928 1010 1031 1063
+TGATT : 4 matches; Starting positions: 70 385 415 517
+GATTT : 4 matches; Starting positions: 71 404 416 1055
+TTAAG : 5 matches; Starting positions: 74 249 695 797 948
+TAAGA : 5 matches; Starting positions: 75 250 399 454 798
+AAGAA : 6 matches; Starting positions: 76 176 251 455 799 1074
+AGAAA : 5 matches; Starting positions: 77 140 598 755 800
+GAAAA : 6 matches; Starting positions: 78 152 509 584 617 756
+AAAAC : 5 matches; Starting positions: 80 314 510 618 757
+AAACA : 3 matches; Starting positions: 81 758 769
+AACAA : 7 matches; Starting positions: 82 342 449 685 759 770 1077
+AAACT : 3 matches; Starting positions: 86 511 1103
+AACTA : 3 matches; Starting positions: 87 114 660
+AATAG : 3 matches; Starting positions: 91 331 601
+ATAGA : 4 matches; Starting positions: 92 332 356 602
+TAGAT : 3 matches; Starting positions: 93 333 567
+AGATA : 7 matches; Starting positions: 94 322 533 568 588 784 967
+ATAAG : 3 matches; Starting positions: 101 275 453
+AAGTT : 3 matches; Starting positions: 103 991 1080
+TAGAA : 4 matches; Starting positions: 111 139 357 597
+AGAAC : 5 matches; Starting positions: 112 177 456 1075 1086
+TATAC : 4 matches; Starting positions: 117 548 591 872
+TACAA : 4 matches; Starting positions: 119 638 657 1108
+AATAC : 4 matches; Starting positions: 123 378 481 909
+ACTCA : 3 matches; Starting positions: 126 707 813
+TATTT : 3 matches; Starting positions: 132 571 787
+TTTAG : 6 matches; Starting positions: 137 307 466 652 895 937
+TTAGA : 3 matches; Starting positions: 138 467 896
+GAAAT : 3 matches; Starting positions: 141 599 1020
+AAATT : 3 matches; Starting positions: 142 763 957
+AATTA : 4 matches; Starting positions: 143 360 946 1046
+ATTAC : 3 matches; Starting positions: 144 361 1050
+TTACA : 3 matches; Starting positions: 145 637 1107
+TTGAA : 6 matches; Starting positions: 150 222 375 582 615 1100
+TGAAA : 5 matches; Starting positions: 151 508 583 616 1101
+AATGT : 3 matches; Starting positions: 155 209 865
+AAGAT : 6 matches; Starting positions: 165 321 532 587 642 783
+CAAGA : 3 matches; Starting positions: 175 665 1073
+ACTTA : 5 matches; Starting positions: 184 496 703 924 1105
+TTCTT : 4 matches; Starting positions: 189 463 691 745
+CTTGA : 3 matches; Starting positions: 191 383 1099
+TTGAG : 3 matches; Starting positions: 192 752 1083
+TGAGA : 3 matches; Starting positions: 193 753 1084
+AGTGC : 4 matches; Starting positions: 197 680 698 887
+ACAAT : 4 matches; Starting positions: 207 450 624 771
+ATGTT : 4 matches; Starting positions: 210 303 537 866
+TAGTG : 3 matches; Starting positions: 214 679 886
+AGGTT : 3 matches; Starting positions: 219 233 900
+GTTGA : 3 matches; Starting positions: 221 413 1082
+AACTT : 4 matches; Starting positions: 225 512 688 1097
+GCTAG : 4 matches; Starting positions: 230 833 890 1015
+CTAGG : 3 matches; Starting positions: 231 834 1016
+GTTAA : 3 matches; Starting positions: 235 350 476
+TTAAA : 6 matches; Starting positions: 236 477 527 906 926 1061
+AGCTT : 3 matches; Starting positions: 246 557 828
+CTTAA : 6 matches; Starting positions: 248 263 526 806 925 982
+ATTAT : 5 matches; Starting positions: 272 387 519 817 1047
+TTATA : 4 matches; Starting positions: 273 520 547 871
+ATTGG : 3 matches; Starting positions: 296 368 959
+GGCTA : 3 matches; Starting positions: 299 837 1006
+TATGT : 3 matches; Starting positions: 302 395 536
+TGTTT : 3 matches; Starting positions: 304 633 867
+TAGTA : 3 matches; Starting positions: 309 654 778
+AAACC : 3 matches; Starting positions: 315 619 802
+AACCA : 3 matches; Starting positions: 316 620 985
+ATACC : 3 matches; Starting positions: 324 379 549
+GAACA : 4 matches; Starting positions: 341 457 1001 1076
+ACAAC : 3 matches; Starting positions: 343 658 686
+ATATA : 4 matches; Starting positions: 354 426 503 590
+TTTGA : 5 matches; Starting positions: 374 419 515 581 751
+TGAAT : 3 matches; Starting positions: 376 391 646
+ACCTT : 3 matches; Starting positions: 381 804 915
+TTGAT : 3 matches; Starting positions: 384 414 516
+ATGAA : 3 matches; Starting positions: 390 507 645
+ATATG : 3 matches; Starting positions: 394 505 535
+TCATA : 3 matches; Starting positions: 424 501 775
+AAAGT : 3 matches; Starting positions: 437 489 843
+TCTTT : 4 matches; Starting positions: 464 650 692 746
+CTTTA : 4 matches; Starting positions: 465 651 693 936
+AGACG : 3 matches; Starting positions: 469 608 667
+TTATC : 3 matches; Starting positions: 498 740 818
+ATCTT : 3 matches; Starting positions: 524 649 742
+GATAT : 4 matches; Starting positions: 534 569 589 785
+TTACT : 3 matches; Starting positions: 563 705 922
+ATACG : 3 matches; Starting positions: 592 873 910
+GTGCA : 4 matches; Starting positions: 681 699 963 1070
+GTAAT : 3 matches; Starting positions: 714 846 1044
+TAATG : 3 matches; Starting positions: 718 808 856
+AATGA : 4 matches; Starting positions: 719 809 857 1022
+CCTTA : 3 matches; Starting positions: 805 916 981
+AGGAG : 3 matches; Starting positions: 825 930 1040
+AGGCT : 3 matches; Starting positions: 836 933 1005
+CTAAA : 4 matches; Starting positions: 839 851 972 1008
+AAGGG : 3 matches; Starting positions: 1011 1032 1064
+
+
+>CP001652.1 Borrelia burgdorferi JD1 plasmid JD1_lp54
+Total matched sequences: 64
+
+TAATA : 7 matches; Starting positions: 4 35 67 156 234 565 591
+AATAA : 8 matches; Starting positions: 5 94 157 235 291 302 348 558
+ATAAA : 11 matches; Starting positions: 6 39 95 173 205 216 236 266 299 559 580
+TAAAT : 8 matches; Starting positions: 7 237 267 300 346 505 560 581
+AAATT : 9 matches; Starting positions: 8 99 133 166 187 268 306 561 582
+AATTA : 9 matches; Starting positions: 9 22 100 153 167 188 269 398 562
+ATTAT : 8 matches; Starting positions: 10 109 168 213 374 403 514 577
+TTATC : 3 matches; Starting positions: 11 110 478
+TATCT : 4 matches; Starting positions: 12 378 479 509
+ATCTT : 4 matches; Starting positions: 13 342 480 491
+TCTTC : 3 matches; Starting positions: 14 460 481
+CTTCT : 3 matches; Starting positions: 15 461 482
+AGAAT : 3 matches; Starting positions: 20 339 389
+GAATT : 3 matches; Starting positions: 21 152 390
+ATTAA : 10 matches; Starting positions: 23 33 88 144 154 232 270 399 443 563
+TTAAA : 10 matches; Starting positions: 24 89 128 163 198 246 271 345 444 504
+TAAAG : 3 matches; Starting positions: 25 199 272
+AAAGA : 6 matches; Starting positions: 26 115 249 273 329 387
+AAGAA : 6 matches; Starting positions: 27 116 258 294 338 388
+AATAT : 4 matches; Starting positions: 30 507 566 592
+ATATT : 4 matches; Starting positions: 31 498 567 593
+TATTA : 5 matches; Starting positions: 32 87 373 513 568
+TTAAT : 8 matches; Starting positions: 34 145 155 224 278 400 473 564
+TATAA : 5 matches; Starting positions: 38 172 204 215 579
+TAAAA : 10 matches; Starting positions: 40 90 129 164 180 206 217 247 304 453
+AAAAT : 5 matches; Starting positions: 41 92 132 165 305
+AAATA : 5 matches; Starting positions: 42 93 297 347 506
+AAAGC : 3 matches; Starting positions: 50 219 435
+CAATC : 3 matches; Starting positions: 61 324 535
+AATTT : 6 matches; Starting positions: 73 147 160 391 475 572
+ATTTT : 4 matches; Starting positions: 74 253 500 595
+TTTTT : 3 matches; Starting positions: 75 122 501
+TTTTA : 8 matches; Starting positions: 76 126 244 254 450 465 502 596
+TTTAT : 4 matches; Starting positions: 77 477 545 574
+TTATT : 4 matches; Starting positions: 78 515 546 575
+TATTT : 4 matches; Starting positions: 79 499 547 594
+AAAAA : 5 matches; Starting positions: 91 130 181 207 454
+TTACT : 3 matches; Starting positions: 102 467 598
+ACATT : 3 matches; Starting positions: 107 142 211
+CATTA : 5 matches; Starting positions: 108 143 212 231 616
+TCAAA : 4 matches; Starting positions: 113 327 433 605
+CAAAG : 3 matches; Starting positions: 114 328 434
+AACTT : 5 matches; Starting positions: 119 423 447 542 609
+ACTTT : 5 matches; Starting positions: 120 415 448 469 543
+CTTTT : 4 matches; Starting positions: 121 429 449 464
+TTTAA : 8 matches; Starting positions: 127 162 245 255 317 451 472 503
+TAAAC : 3 matches; Starting positions: 139 174 445
+AAACA : 3 matches; Starting positions: 140 175 209
+AACAT : 3 matches; Starting positions: 141 176 210
+TAATT : 5 matches; Starting positions: 146 159 401 474 571
+ATTTA : 3 matches; Starting positions: 161 476 573
+TTATA : 5 matches; Starting positions: 169 214 375 404 578
+TATAT : 3 matches; Starting positions: 170 376 405
+AAAAC : 4 matches; Starting positions: 182 208 421 607
+AAAAG : 5 matches; Starting positions: 218 248 336 386 455
+AAGCT : 4 matches; Starting positions: 220 285 313 436
+CTTAA : 3 matches; Starting positions: 223 344 485
+AAGAT : 4 matches; Starting positions: 250 274 330 488
+AGATT : 3 matches; Starting positions: 251 275 441
+TTAAG : 3 matches; Starting positions: 256 318 486
+TAAGA : 4 matches; Starting positions: 257 293 319 487
+GCTCA : 3 matches; Starting positions: 287 411 532
+CAAAA : 3 matches; Starting positions: 335 385 606
+AAACT : 4 matches; Starting positions: 422 446 541 608
+
+
+>AE001577_Borrelia_burgdorferi_B31_cp32-4
+Total matched sequences: 139
+
+ATTTT : 6 matches; Starting positions: 0 133 417 627 737 1056
+TTTTA : 9 matches; Starting positions: 1 136 306 561 635 738 869 994 1059
+TTTAT : 4 matches; Starting positions: 2 573 739 870
+TTATT : 5 matches; Starting positions: 3 186 574 903 1048
+TATTG : 3 matches; Starting positions: 4 367 613
+ATTGA : 3 matches; Starting positions: 5 149 614
+ACAAA : 5 matches; Starting positions: 9 83 120 639 760
+CAAAA : 4 matches; Starting positions: 10 84 761 954
+AAAAA : 7 matches; Starting positions: 11 59 79 313 529 841 955
+AAAAT : 7 matches; Starting positions: 12 98 153 442 479 762 956
+AAATA : 7 matches; Starting positions: 13 99 122 480 600 853 908
+AATAT : 4 matches; Starting positions: 14 130 353 393
+ATATT : 4 matches; Starting positions: 15 131 570 786
+TATTA : 4 matches; Starting positions: 16 271 904 1049
+TTAGT : 5 matches; Starting positions: 18 213 308 653 918
+TAGTT : 3 matches; Starting positions: 19 892 919
+AGTTT : 3 matches; Starting positions: 20 893 992
+GTTTT : 7 matches; Starting positions: 21 285 305 372 634 868 993
+TTTTT : 6 matches; Starting positions: 22 134 560 628 748 1057
+TTTTG : 5 matches; Starting positions: 23 373 418 630 750
+TTGCT : 3 matches; Starting positions: 25 228 831
+TGCTA : 4 matches; Starting positions: 26 229 832 889
+TATCA : 3 matches; Starting positions: 29 499 819
+ATCAT : 4 matches; Starting positions: 30 423 500 774
+TCTAA : 3 matches; Starting positions: 38 791 850
+CTAAT : 4 matches; Starting positions: 39 89 329 792
+TAATT : 5 matches; Starting positions: 40 265 793 945 1045
+AATTT : 3 matches; Starting positions: 41 626 794
+ATTTA : 4 matches; Starting positions: 42 72 572 795
+TTTAA : 6 matches; Starting positions: 43 73 694 796 995 1060
+TTAAT : 5 matches; Starting positions: 44 264 351 807 944
+TAATA : 5 matches; Starting positions: 45 90 330 352 715
+AATAA : 5 matches; Starting positions: 46 100 452 716 854
+ATAAA : 4 matches; Starting positions: 47 96 435 486
+TAAAG : 9 matches; Starting positions: 48 237 436 781 927 973 1009 1030 1062
+AAAGA : 8 matches; Starting positions: 49 320 531 586 606 641 782 974
+AAGAG : 3 matches; Starting positions: 50 400 975
+GAGAA : 3 matches; Starting positions: 52 754 1085
+AGAAG : 3 matches; Starting positions: 53 163 989
+GAAGT : 3 matches; Starting positions: 54 729 990
+AAGTA : 3 matches; Starting positions: 55 438 844
+AGTAA : 7 matches; Starting positions: 56 310 439 713 779 845 1043
+GTAAA : 5 matches; Starting positions: 57 311 440 780 1029
+TAAAA : 7 matches; Starting positions: 58 97 312 441 478 528 840
+AAAAG : 5 matches; Starting positions: 60 488 530 585 842
+AAAGG : 6 matches; Starting positions: 61 238 928 1010 1031 1063
+TGATT : 4 matches; Starting positions: 70 385 415 517
+GATTT : 4 matches; Starting positions: 71 404 416 1055
+TTAAG : 5 matches; Starting positions: 74 249 695 797 948
+TAAGA : 5 matches; Starting positions: 75 250 399 454 798
+AAGAA : 6 matches; Starting positions: 76 176 251 455 799 1074
+AGAAA : 5 matches; Starting positions: 77 140 598 755 800
+GAAAA : 6 matches; Starting positions: 78 152 509 584 617 756
+AAAAC : 5 matches; Starting positions: 80 314 510 618 757
+AAACA : 3 matches; Starting positions: 81 758 769
+AACAA : 7 matches; Starting positions: 82 342 449 685 759 770 1077
+AAACT : 3 matches; Starting positions: 86 511 1103
+AACTA : 3 matches; Starting positions: 87 114 660
+AATAG : 3 matches; Starting positions: 91 331 601
+ATAGA : 4 matches; Starting positions: 92 332 356 602
+TAGAT : 3 matches; Starting positions: 93 333 567
+AGATA : 7 matches; Starting positions: 94 322 533 568 588 784 967
+ATAAG : 3 matches; Starting positions: 101 275 453
+AAGTT : 3 matches; Starting positions: 103 991 1080
+TAGAA : 4 matches; Starting positions: 111 139 357 597
+AGAAC : 5 matches; Starting positions: 112 177 456 1075 1086
+TATAC : 4 matches; Starting positions: 117 548 591 872
+TACAA : 4 matches; Starting positions: 119 638 657 1108
+AATAC : 4 matches; Starting positions: 123 378 481 909
+ACTCA : 3 matches; Starting positions: 126 707 813
+TATTT : 3 matches; Starting positions: 132 571 787
+TTTAG : 6 matches; Starting positions: 137 307 466 652 895 937
+TTAGA : 3 matches; Starting positions: 138 467 896
+GAAAT : 3 matches; Starting positions: 141 599 1020
+AAATT : 3 matches; Starting positions: 142 763 957
+AATTA : 4 matches; Starting positions: 143 360 946 1046
+ATTAC : 3 matches; Starting positions: 144 361 1050
+TTACA : 3 matches; Starting positions: 145 637 1107
+TTGAA : 6 matches; Starting positions: 150 222 375 582 615 1100
+TGAAA : 5 matches; Starting positions: 151 508 583 616 1101
+AATGT : 3 matches; Starting positions: 155 209 865
+AAGAT : 6 matches; Starting positions: 165 321 532 587 642 783
+CAAGA : 3 matches; Starting positions: 175 665 1073
+ACTTA : 5 matches; Starting positions: 184 496 703 924 1105
+TTCTT : 4 matches; Starting positions: 189 463 691 745
+CTTGA : 3 matches; Starting positions: 191 383 1099
+TTGAG : 3 matches; Starting positions: 192 752 1083
+TGAGA : 3 matches; Starting positions: 193 753 1084
+AGTGC : 4 matches; Starting positions: 197 680 698 887
+ACAAT : 4 matches; Starting positions: 207 450 624 771
+ATGTT : 4 matches; Starting positions: 210 303 537 866
+TAGTG : 3 matches; Starting positions: 214 679 886
+AGGTT : 3 matches; Starting positions: 219 233 900
+GTTGA : 3 matches; Starting positions: 221 413 1082
+AACTT : 4 matches; Starting positions: 225 512 688 1097
+GCTAG : 4 matches; Starting positions: 230 833 890 1015
+CTAGG : 3 matches; Starting positions: 231 834 1016
+GTTAA : 3 matches; Starting positions: 235 350 476
+TTAAA : 6 matches; Starting positions: 236 477 527 906 926 1061
+AGCTT : 3 matches; Starting positions: 246 557 828
+CTTAA : 6 matches; Starting positions: 248 263 526 806 925 982
+ATTAT : 5 matches; Starting positions: 272 387 519 817 1047
+TTATA : 4 matches; Starting positions: 273 520 547 871
+ATTGG : 3 matches; Starting positions: 296 368 959
+GGCTA : 3 matches; Starting positions: 299 837 1006
+TATGT : 3 matches; Starting positions: 302 395 536
+TGTTT : 3 matches; Starting positions: 304 633 867
+TAGTA : 3 matches; Starting positions: 309 654 778
+AAACC : 3 matches; Starting positions: 315 619 802
+AACCA : 3 matches; Starting positions: 316 620 985
+ATACC : 3 matches; Starting positions: 324 379 549
+GAACA : 4 matches; Starting positions: 341 457 1001 1076
+ACAAC : 3 matches; Starting positions: 343 658 686
+ATATA : 4 matches; Starting positions: 354 426 503 590
+TTTGA : 5 matches; Starting positions: 374 419 515 581 751
+TGAAT : 3 matches; Starting positions: 376 391 646
+ACCTT : 3 matches; Starting positions: 381 804 915
+TTGAT : 3 matches; Starting positions: 384 414 516
+ATGAA : 3 matches; Starting positions: 390 507 645
+ATATG : 3 matches; Starting positions: 394 505 535
+TCATA : 3 matches; Starting positions: 424 501 775
+AAAGT : 3 matches; Starting positions: 437 489 843
+TCTTT : 4 matches; Starting positions: 464 650 692 746
+CTTTA : 4 matches; Starting positions: 465 651 693 936
+AGACG : 3 matches; Starting positions: 469 608 667
+TTATC : 3 matches; Starting positions: 498 740 818
+ATCTT : 3 matches; Starting positions: 524 649 742
+GATAT : 4 matches; Starting positions: 534 569 589 785
+TTACT : 3 matches; Starting positions: 563 705 922
+ATACG : 3 matches; Starting positions: 592 873 910
+GTGCA : 4 matches; Starting positions: 681 699 963 1070
+GTAAT : 3 matches; Starting positions: 714 846 1044
+TAATG : 3 matches; Starting positions: 718 808 856
+AATGA : 4 matches; Starting positions: 719 809 857 1022
+CCTTA : 3 matches; Starting positions: 805 916 981
+AGGAG : 3 matches; Starting positions: 825 930 1040
+AGGCT : 3 matches; Starting positions: 836 933 1005
+CTAAA : 4 matches; Starting positions: 839 851 972 1008
+AAGGG : 3 matches; Starting positions: 1011 1032 1064
+
+
+>CP001652.1 Borrelia burgdorferi JD1 plasmid JD1_lp54
+Total matched sequences: 64
+
+TAATA : 7 matches; Starting positions: 4 35 67 156 234 565 591
+AATAA : 8 matches; Starting positions: 5 94 157 235 291 302 348 558
+ATAAA : 11 matches; Starting positions: 6 39 95 173 205 216 236 266 299 559 580
+TAAAT : 8 matches; Starting positions: 7 237 267 300 346 505 560 581
+AAATT : 9 matches; Starting positions: 8 99 133 166 187 268 306 561 582
+AATTA : 9 matches; Starting positions: 9 22 100 153 167 188 269 398 562
+ATTAT : 8 matches; Starting positions: 10 109 168 213 374 403 514 577
+TTATC : 3 matches; Starting positions: 11 110 478
+TATCT : 4 matches; Starting positions: 12 378 479 509
+ATCTT : 4 matches; Starting positions: 13 342 480 491
+TCTTC : 3 matches; Starting positions: 14 460 481
+CTTCT : 3 matches; Starting positions: 15 461 482
+AGAAT : 3 matches; Starting positions: 20 339 389
+GAATT : 3 matches; Starting positions: 21 152 390
+ATTAA : 10 matches; Starting positions: 23 33 88 144 154 232 270 399 443 563
+TTAAA : 10 matches; Starting positions: 24 89 128 163 198 246 271 345 444 504
+TAAAG : 3 matches; Starting positions: 25 199 272
+AAAGA : 6 matches; Starting positions: 26 115 249 273 329 387
+AAGAA : 6 matches; Starting positions: 27 116 258 294 338 388
+AATAT : 4 matches; Starting positions: 30 507 566 592
+ATATT : 4 matches; Starting positions: 31 498 567 593
+TATTA : 5 matches; Starting positions: 32 87 373 513 568
+TTAAT : 8 matches; Starting positions: 34 145 155 224 278 400 473 564
+TATAA : 5 matches; Starting positions: 38 172 204 215 579
+TAAAA : 10 matches; Starting positions: 40 90 129 164 180 206 217 247 304 453
+AAAAT : 5 matches; Starting positions: 41 92 132 165 305
+AAATA : 5 matches; Starting positions: 42 93 297 347 506
+AAAGC : 3 matches; Starting positions: 50 219 435
+CAATC : 3 matches; Starting positions: 61 324 535
+AATTT : 6 matches; Starting positions: 73 147 160 391 475 572
+ATTTT : 4 matches; Starting positions: 74 253 500 595
+TTTTT : 3 matches; Starting positions: 75 122 501
+TTTTA : 8 matches; Starting positions: 76 126 244 254 450 465 502 596
+TTTAT : 4 matches; Starting positions: 77 477 545 574
+TTATT : 4 matches; Starting positions: 78 515 546 575
+TATTT : 4 matches; Starting positions: 79 499 547 594
+AAAAA : 5 matches; Starting positions: 91 130 181 207 454
+TTACT : 3 matches; Starting positions: 102 467 598
+ACATT : 3 matches; Starting positions: 107 142 211
+CATTA : 5 matches; Starting positions: 108 143 212 231 616
+TCAAA : 4 matches; Starting positions: 113 327 433 605
+CAAAG : 3 matches; Starting positions: 114 328 434
+AACTT : 5 matches; Starting positions: 119 423 447 542 609
+ACTTT : 5 matches; Starting positions: 120 415 448 469 543
+CTTTT : 4 matches; Starting positions: 121 429 449 464
+TTTAA : 8 matches; Starting positions: 127 162 245 255 317 451 472 503
+TAAAC : 3 matches; Starting positions: 139 174 445
+AAACA : 3 matches; Starting positions: 140 175 209
+AACAT : 3 matches; Starting positions: 141 176 210
+TAATT : 5 matches; Starting positions: 146 159 401 474 571
+ATTTA : 3 matches; Starting positions: 161 476 573
+TTATA : 5 matches; Starting positions: 169 214 375 404 578
+TATAT : 3 matches; Starting positions: 170 376 405
+AAAAC : 4 matches; Starting positions: 182 208 421 607
+AAAAG : 5 matches; Starting positions: 218 248 336 386 455
+AAGCT : 4 matches; Starting positions: 220 285 313 436
+CTTAA : 3 matches; Starting positions: 223 344 485
+AAGAT : 4 matches; Starting positions: 250 274 330 488
+AGATT : 3 matches; Starting positions: 251 275 441
+TTAAG : 3 matches; Starting positions: 256 318 486
+TAAGA : 4 matches; Starting positions: 257 293 319 487
+GCTCA : 3 matches; Starting positions: 287 411 532
+CAAAA : 3 matches; Starting positions: 335 385 606
+AAACT : 4 matches; Starting positions: 422 446 541 608
+
+

@@ -1,0 +1,14 @@
+bp_length: 15; starting point difference: 40; minimum matches accounted: 3
+
+>CP001652.1 Borrelia burgdorferi JD1 plasmid JD1_lp54
+Total matched sequences: 7
+
+AAAAAAAAAGAGAAG : 3 matches; Starting positions: 46365 47369 48635
+TTTCAAGAATTTCTT : 3 matches; Starting positions: 46749 47775 49104
+TTCAAGAATTTCTTT : 3 matches; Starting positions: 46750 47776 49105
+TCAAGAATTTCTTTT : 3 matches; Starting positions: 46751 47777 49106
+CAAGAATTTCTTTTA : 3 matches; Starting positions: 46752 47778 49107
+AAGAATTTCTTTTAA : 3 matches; Starting positions: 46753 47779 49108
+AGAATTTCTTTTAAT : 3 matches; Starting positions: 46754 47780 49109
+
+

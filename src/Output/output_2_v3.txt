@@ -1,0 +1,9 @@
+bp_length: 3; starting point difference: 1; minimum matches accounted: 3: # of bp misalignment checked: 0
+
+>CP001652.1 Borrelia burgdorferi JD1 plasmid JD1_lp54
+Total matched sequences: 2
+
+TAA : 2 matches; Starting positions: 4 7 25
+AAT : 2 matches; Starting positions: 5 9 22
+
+

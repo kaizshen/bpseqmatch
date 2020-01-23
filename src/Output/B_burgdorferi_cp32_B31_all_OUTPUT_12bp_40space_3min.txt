@@ -1,0 +1,376 @@
+bp_length: 12; starting point difference: 40; minimum matches accounted: 3
+
+>AE001577_Borrelia_burgdorferi_B31_cp32-4
+Total matched sequences: 18
+
+CTTTAGCATTAA : 3 matches; Starting positions: 936 7747 12921
+TTTAGCATTAAT : 3 matches; Starting positions: 937 7748 12922
+TAAAATAGAAAA : 3 matches; Starting positions: 2185 21999 28718
+AAAATAGAAAAT : 3 matches; Starting positions: 2186 22000 28719
+TTTGATAAAAAT : 3 matches; Starting positions: 5538 12130 20953
+TAAATTAGAAAA : 3 matches; Starting positions: 8927 19165 19786
+AAAAAATTAAAA : 3 matches; Starting positions: 15140 19619 24167
+TGTAGAAAAGAA : 3 matches; Starting positions: 16696 16816 22140
+GTAGAAAAGAAT : 3 matches; Starting positions: 16697 16817 22141
+TAGAAAAGAATT : 3 matches; Starting positions: 16698 16818 22142
+AGAAAAGAATTT : 3 matches; Starting positions: 16699 16819 22143
+GAAAAGAATTTA : 4 matches; Starting positions: 16700 16766 16820 16886
+AAAAGAATTTAA : 4 matches; Starting positions: 16701 16767 16821 16887
+AAAGAATTTAAA : 3 matches; Starting positions: 16702 16768 16822
+AAGAATTTAAAT : 3 matches; Starting positions: 16703 16769 16823
+AAAATAGATAGT : 3 matches; Starting positions: 16784 16838 22183
+TTTGAATTTTTT : 3 matches; Starting positions: 22417 24856 25268
+AATTTGAAATAA : 3 matches; Starting positions: 24483 24783 26813
+
+
+>AE001575.1 Borrelia burgdorferi B31 plasmid cp32-1
+Total matched sequences: 8
+
+CAAAAGGATATA : 3 matches; Starting positions: 1618 22346 22400
+AAATTTAAAAAA : 3 matches; Starting positions: 2754 21317 24048
+AAATATTTAAAG : 3 matches; Starting positions: 6193 14492 24990
+GAAAAGAAAAAA : 3 matches; Starting positions: 6914 10345 28333
+AAGAAATAAAAG : 3 matches; Starting positions: 7172 15942 21729
+AGAAATAAAAGA : 3 matches; Starting positions: 7173 15943 21730
+ATATATCTAATT : 3 matches; Starting positions: 13168 22353 22407
+CAAAAACGAAAA : 3 matches; Starting positions: 25896 27266 27407
+
+
+>AE001576.1 Borrelia burgdorferi B31 plasmid cp32-3
+Total matched sequences: 128
+
+AATTTAAACCTA : 3 matches; Starting positions: 4770 22922 23009
+AAATATTTAAAG : 3 matches; Starting positions: 6193 14492 25450
+TTTAATACTTTT : 3 matches; Starting positions: 8544 18341 26087
+AAAATTTTGATT : 3 matches; Starting positions: 8650 10051 11234
+TAAATTAGAAAA : 3 matches; Starting positions: 8917 19810 20434
+TTAAACCTAAAA : 3 matches; Starting positions: 9064 22925 23012
+TAAACCTAAAAA : 3 matches; Starting positions: 9065 22926 23013
+TATTAATAATAA : 3 matches; Starting positions: 10311 17776 24223
+ATGAAAAAAATT : 3 matches; Starting positions: 11228 20655 27409
+ATATATCTAATT : 5 matches; Starting positions: 13168 17377 17431 17485 22761
+TTTAAAAAAAAT : 3 matches; Starting positions: 13612 21811 21981
+TATAAAAATAAA : 3 matches; Starting positions: 15176 19248 24125
+AAACACTAAAAT : 4 matches; Starting positions: 16177 22807 22894 22981
+AAAAATGTAAAT : 3 matches; Starting positions: 16427 16974 26334
+AAAATGTAAATT : 3 matches; Starting positions: 16428 16975 26335
+AAATGTAAATTA : 3 matches; Starting positions: 16429 16976 26336
+TTACAAAAAGGT : 3 matches; Starting positions: 16438 16985 19303
+TTTCTTGCAAGA : 3 matches; Starting positions: 16451 16998 26759
+TTTTGTAAAAAA : 3 matches; Starting positions: 16926 23615 27204
+TCTAAAATAGAT : 3 matches; Starting positions: 17274 22865 22952
+CTAAAATAGATA : 3 matches; Starting positions: 17275 22866 22953
+TAAAATAGATAC : 3 matches; Starting positions: 17276 22867 22954
+AAAATAGATACT : 4 matches; Starting positions: 17277 17538 22868 22955
+AAATAGATACTG : 4 matches; Starting positions: 17278 17539 22869 22956
+AATAGATACTGT : 4 matches; Starting positions: 17279 17540 22870 22957
+ATAGATACTGTA : 4 matches; Starting positions: 17280 17541 22871 22958
+TAGATACTGTAG : 4 matches; Starting positions: 17281 17542 22872 22959
+AGATACTGTAGA : 4 matches; Starting positions: 17282 17543 22873 22960
+GATACTGTAGAA : 5 matches; Starting positions: 17283 17544 22787 22874 22961
+ATACTGTAGAAA : 5 matches; Starting positions: 17284 17545 22788 22875 22962
+TACTGTAGAAAA : 5 matches; Starting positions: 17285 17546 22789 22876 22963
+ACTGTAGAAAAG : 5 matches; Starting positions: 17286 17547 22790 22877 22964
+CTGTAGAAAAGA : 5 matches; Starting positions: 17287 17548 22791 22878 22965
+TGTAGAAAAGAA : 7 matches; Starting positions: 17288 17354 17549 22738 22792 22879 22966
+GTAGAAAAGAAT : 7 matches; Starting positions: 17289 17355 17550 22739 22793 22880 22967
+TAGAAAAGAATT : 7 matches; Starting positions: 17290 17356 17551 22740 22794 22881 22968
+AGAAAAGAATTT : 7 matches; Starting positions: 17291 17357 17552 22741 22795 22882 22969
+GAAAAGAATTTA : 7 matches; Starting positions: 17292 17358 17553 22742 22796 22883 22970
+AAAAGAATTTAA : 5 matches; Starting positions: 17293 17554 22797 22884 22971
+AAAGAATTTAAA : 5 matches; Starting positions: 17294 17555 22798 22885 22972
+AAGAATTTAAAT : 3 matches; Starting positions: 17295 17523 22832
+AATGTAGAAAAG : 3 matches; Starting positions: 17352 22736 23051
+ATGTAGAAAAGA : 3 matches; Starting positions: 17353 22737 23052
+AAGAATTTACAA : 4 matches; Starting positions: 17361 17415 17469 22745
+AGAATTTACAAA : 4 matches; Starting positions: 17362 17416 17470 22746
+GAATTTACAAAA : 4 matches; Starting positions: 17363 17417 17471 22747
+AATTTACAAAAA : 4 matches; Starting positions: 17364 17418 17472 20345
+ATTTACAAAAAG : 4 matches; Starting positions: 17365 17419 17473 20346
+TTTACAAAAAGA : 3 matches; Starting positions: 17366 17420 17474
+TTACAAAAAGAT : 3 matches; Starting positions: 17367 17421 17475
+TACAAAAAGATA : 3 matches; Starting positions: 17368 17422 17476
+ACAAAAAGATAT : 3 matches; Starting positions: 17369 17423 17477
+CAAAAAGATATA : 3 matches; Starting positions: 17370 17424 17478
+AAAAAGATATAT : 3 matches; Starting positions: 17371 17425 17479
+AAAAGATATATC : 3 matches; Starting positions: 17372 17426 17480
+AAAGATATATCT : 3 matches; Starting positions: 17373 17427 17481
+AAGATATATCTA : 3 matches; Starting positions: 17374 17428 17482
+AGATATATCTAA : 3 matches; Starting positions: 17375 17429 17483
+GATATATCTAAT : 4 matches; Starting positions: 17376 17430 17484 22760
+TATATCTAATTT : 4 matches; Starting positions: 17378 17432 17486 22762
+ATATCTAATTTA : 4 matches; Starting positions: 17379 17433 17487 22763
+TATCTAATTTAG : 4 matches; Starting positions: 17380 17434 17488 22764
+ATCTAATTTAGA : 4 matches; Starting positions: 17381 17435 17489 22765
+TCTAATTTAGAT : 3 matches; Starting positions: 17382 17436 17490
+CTAATTTAGATA : 3 matches; Starting positions: 17383 17437 17491
+TAATTTAGATAC : 3 matches; Starting positions: 17384 17438 17492
+AATTTAGATACT : 3 matches; Starting positions: 17385 17439 17493
+ATTTAGATACTA : 3 matches; Starting positions: 17386 17440 17494
+TTTAGATACTAA : 3 matches; Starting positions: 17387 17441 17495
+TTAGATACTAAG : 3 matches; Starting positions: 17388 17442 17496
+TAGATACTAAGA : 3 matches; Starting positions: 17389 17443 17497
+AGATACTAAGAT : 3 matches; Starting positions: 17390 17444 17498
+GATACTAAGATT : 3 matches; Starting positions: 17391 17445 17499
+ATACTAAGATTG : 3 matches; Starting positions: 17392 17446 17500
+TACTAAGATTGA : 3 matches; Starting positions: 17393 17447 17501
+ACTAAGATTGAT : 3 matches; Starting positions: 17394 17448 17502
+CTAAGATTGATA : 3 matches; Starting positions: 17395 17449 17503
+TAAGATTGATAA : 3 matches; Starting positions: 17396 17450 17504
+AAGATTGATAAT : 3 matches; Starting positions: 17397 17451 17505
+AGATTGATAATG : 3 matches; Starting positions: 17398 17452 17506
+GATTGATAATGT : 3 matches; Starting positions: 17399 17453 17507
+ATTGATAATGTA : 3 matches; Starting positions: 17400 17454 17508
+TTGATAATGTAG : 3 matches; Starting positions: 17401 17455 17509
+TGATAATGTAGA : 3 matches; Starting positions: 17402 17456 17510
+GATAATGTAGAG : 3 matches; Starting positions: 17403 17457 17511
+ATAATGTAGAGA : 3 matches; Starting positions: 17404 17458 17512
+TAATGTAGAGAA : 3 matches; Starting positions: 17405 17459 17513
+AATGTAGAGAAG : 3 matches; Starting positions: 17406 17460 17514
+ATGTAGAGAAGA : 3 matches; Starting positions: 17407 17461 17515
+TGTAGAGAAGAA : 3 matches; Starting positions: 17408 17462 17516
+GTAGAGAAGAAT : 3 matches; Starting positions: 17409 17463 17517
+TAGAGAAGAATT : 3 matches; Starting positions: 17410 17464 17518
+AGAGAAGAATTT : 3 matches; Starting positions: 17411 17465 17519
+GAGAAGAATTTA : 3 matches; Starting positions: 17412 17466 17520
+AAAATAGACAAT : 5 matches; Starting positions: 17571 22814 22901 22988 23042
+AAATAGACAATG : 5 matches; Starting positions: 17572 22815 22902 22989 23043
+AATAGACAATGT : 5 matches; Starting positions: 17573 22816 22903 22990 23044
+ATAGACAATGTT : 4 matches; Starting positions: 17574 22817 22904 22991
+TAGACAATGTTG : 4 matches; Starting positions: 17575 22818 22905 22992
+AGACAATGTTGA : 4 matches; Starting positions: 17576 22819 22906 22993
+GACAATGTTGAA : 4 matches; Starting positions: 17577 22820 22907 22994
+ACAATGTTGAAA : 4 matches; Starting positions: 17578 22821 22908 22995
+CAATGTTGAAAA : 4 matches; Starting positions: 17579 22822 22909 22996
+AATGTTGAAAAG : 4 matches; Starting positions: 17580 22823 22910 22997
+ATGTTGAAAAGA : 4 matches; Starting positions: 17581 22824 22911 22998
+TGTTGAAAAGAA : 4 matches; Starting positions: 17582 22825 22912 22999
+GTTGAAAAGAAT : 4 matches; Starting positions: 17583 22826 22913 23000
+TTGAAAAGAATT : 5 matches; Starting positions: 17584 22827 22914 23001 25613
+TGAAAAGAATTT : 4 matches; Starting positions: 17585 22828 22915 23002
+AATAATAAAAAA : 4 matches; Starting positions: 17780 20185 20644 27293
+AATTCTTTAAAA : 3 matches; Starting positions: 18178 22115 28727
+AAAAATAAATAT : 3 matches; Starting positions: 19251 24128 28918
+AAATAATAAAAA : 3 matches; Starting positions: 20184 20643 27292
+TAATAAAAAATG : 3 matches; Starting positions: 20646 22341 27295
+AAGAATTTAAAC : 3 matches; Starting positions: 22799 22886 22973
+AGAATTTAAACA : 3 matches; Starting positions: 22800 22887 22974
+GAATTTAAACAC : 3 matches; Starting positions: 22801 22888 22975
+AATTTAAACACT : 3 matches; Starting positions: 22802 22889 22976
+ATTTAAACACTA : 3 matches; Starting positions: 22803 22890 22977
+TTTAAACACTAA : 3 matches; Starting positions: 22804 22891 22978
+TTAAACACTAAA : 3 matches; Starting positions: 22805 22892 22979
+TAAACACTAAAA : 3 matches; Starting positions: 22806 22893 22980
+AACACTAAAATA : 3 matches; Starting positions: 22808 22895 22982
+ACACTAAAATAG : 3 matches; Starting positions: 22809 22896 22983
+CACTAAAATAGA : 3 matches; Starting positions: 22810 22897 22984
+ACTAAAATAGAC : 3 matches; Starting positions: 22811 22898 22985
+CTAAAATAGACA : 3 matches; Starting positions: 22812 22899 22986
+TAAAATAGACAA : 3 matches; Starting positions: 22813 22900 22987
+
+
+>AE001578.1 Borrelia burgdorferi B31 plasmid cp32-6
+Total matched sequences: 31
+
+ATTTAAGAAAAA : 3 matches; Starting positions: 72 2380 20904
+CTTTAGCATTAA : 3 matches; Starting positions: 936 7747 12987
+TTTAGCATTAAT : 3 matches; Starting positions: 937 7748 12988
+AAGAACTTGCAG : 3 matches; Starting positions: 1486 5590 14571
+AGGCTGGTGGTG : 3 matches; Starting positions: 2274 3147 3646
+AAATAGAAGAAT : 3 matches; Starting positions: 2886 21370 26632
+GAGTATAAAAAT : 3 matches; Starting positions: 3094 7670 21425
+AAAATATTTGAA : 3 matches; Starting positions: 4503 15948 20036
+GAAAAGAAAAAA : 3 matches; Starting positions: 6924 10355 26723
+TAAATTAGAAAA : 3 matches; Starting positions: 8927 19274 19898
+ATTTTTACAAAA : 3 matches; Starting positions: 10251 18749 21985
+CAAAATTAATAA : 3 matches; Starting positions: 14284 18959 21532
+AAAATTAATAAT : 3 matches; Starting positions: 14285 18960 21533
+ACTAAATAAAGG : 3 matches; Starting positions: 18838 19049 23220
+AATGCCAAAATA : 3 matches; Starting positions: 20233 22371 22512
+AAAAGAGCTTAA : 3 matches; Starting positions: 21067 22360 22501
+AAAGAGCTTAAA : 3 matches; Starting positions: 21068 22361 22502
+ATGCCAAAATAG : 3 matches; Starting positions: 22285 22372 22513
+TGCCAAAATAGA : 3 matches; Starting positions: 22286 22373 22514
+CAAAATAGACAA : 3 matches; Starting positions: 22289 22343 22484
+AAAATAGACAAT : 3 matches; Starting positions: 22290 22344 22485
+AAATAGACAATG : 3 matches; Starting positions: 22291 22345 22486
+AATAGACAATGT : 3 matches; Starting positions: 22292 22346 22487
+AAAATAGATAGT : 4 matches; Starting positions: 22377 22431 22518 22593
+AAATAGATAGTT : 3 matches; Starting positions: 22378 22465 22519
+AATAGATAGTTT : 3 matches; Starting positions: 22379 22466 22520
+ATAGATAGTTTA : 3 matches; Starting positions: 22380 22467 22521
+TAGATAGTTTAG : 3 matches; Starting positions: 22381 22468 22522
+AGATAGTTTAGA : 3 matches; Starting positions: 22382 22469 22523
+AGAATTTAAATA : 3 matches; Starting positions: 22417 22845 23134
+CAAGAGAATTTA : 3 matches; Starting positions: 22841 23130 24201
+
+
+>AE001579.1 Borrelia burgdorferi B31 plasmid cp32-7
+Total matched sequences: 32
+
+ATTTAATAAAGA : 3 matches; Starting positions: 42 12537 21064
+TAAATCTAAAGA : 3 matches; Starting positions: 1435 9487 17387
+AAGAACTTGCAG : 3 matches; Starting positions: 1485 5582 14559
+CAAAAGGATATA : 3 matches; Starting positions: 1617 16854 22510
+AAAATCTAAAAA : 3 matches; Starting positions: 1959 15693 26230
+AGACAAAATAGA : 3 matches; Starting positions: 2176 2878 27566
+AAATATCTTAAA : 3 matches; Starting positions: 7029 9059 19700
+AAGAAATAAAAG : 3 matches; Starting positions: 7174 15949 21690
+AGAAATAAAAGA : 3 matches; Starting positions: 7175 15950 21691
+ATAAAAAATGAA : 3 matches; Starting positions: 7500 20157 22126
+ATATTGATAAAG : 3 matches; Starting positions: 8744 19669 27977
+AAAGAAGAACAA : 3 matches; Starting positions: 9494 27297 27372
+AAAAGATATATC : 3 matches; Starting positions: 9925 22251 22425
+AAATTAAAGGAT : 3 matches; Starting positions: 11870 26992 27946
+ATATATCTAATT : 3 matches; Starting positions: 13176 16861 22256
+AAAAAATTAAAA : 3 matches; Starting positions: 15195 19776 24471
+AAATCTAAAAAT : 3 matches; Starting positions: 15694 16799 22302
+AATCTAAAAATA : 3 matches; Starting positions: 15695 16800 22303
+AAAATAGATAGT : 4 matches; Starting positions: 16740 16806 22375 22450
+ATACTAAGATTG : 3 matches; Starting positions: 16768 16942 19681
+TACTAAGATTGA : 3 matches; Starting positions: 16769 16943 19682
+GAAAAGAATTTA : 4 matches; Starting positions: 16788 16842 16962 17028
+AAAAGAATTTAA : 3 matches; Starting positions: 16789 16963 17029
+ATAGATACTGTA : 3 matches; Starting positions: 16830 16983 22279
+TAGATACTGTAG : 3 matches; Starting positions: 16831 16984 22280
+AGATACTGTAGA : 3 matches; Starting positions: 16832 16985 22281
+GATACTGTAGAA : 3 matches; Starting positions: 16833 16986 22282
+ATACTGTAGAAA : 3 matches; Starting positions: 16834 16987 22283
+TACTGTAGAAAA : 3 matches; Starting positions: 16835 16988 22284
+TAGAAAAGAATT : 3 matches; Starting positions: 16840 16993 22235
+AGAAAAGAATTT : 3 matches; Starting positions: 16841 16994 22236
+AATGCCAAAATA : 3 matches; Starting positions: 16974 20278 22369
+
+
+>AE001580.1 Borrelia burgdorferi B31 plasmid cp32-8
+Total matched sequences: 71
+
+AAGAAAAACAAA : 3 matches; Starting positions: 76 19739 27420
+AGAAAAACAAAA : 3 matches; Starting positions: 77 19740 27421
+CTTTAGCATTAA : 3 matches; Starting positions: 936 7737 12968
+TTTAGCATTAAT : 3 matches; Starting positions: 937 7738 12969
+AAAAGAGAAATT : 3 matches; Starting positions: 1264 5225 22240
+TTTTATGAAAAT : 3 matches; Starting positions: 1953 6366 21535
+AAAATTTAAAAA : 3 matches; Starting positions: 2753 19235 21250
+AAATATTTAAAG : 3 matches; Starting positions: 6193 14492 25125
+GACTATATTAAT : 3 matches; Starting positions: 6537 8637 21426
+GAAAAGAAAAAA : 3 matches; Starting positions: 6914 10345 28468
+AACAAAAAAATT : 3 matches; Starting positions: 10273 21384 28483
+TATTAATAATAA : 3 matches; Starting positions: 10311 17178 23898
+ATATATCTAATT : 4 matches; Starting positions: 13168 16800 22281 22530
+AAAAAATTAAAA : 3 matches; Starting positions: 15188 19750 24702
+AATTTACAAAAA : 6 matches; Starting positions: 16787 19828 22268 22355 22409 22463
+ATTTACAAAAAG : 6 matches; Starting positions: 16788 19829 22269 22356 22410 22464
+TTTACAAAAAGA : 5 matches; Starting positions: 16789 22270 22357 22411 22465
+TTACAAAAAGAT : 5 matches; Starting positions: 16790 22271 22358 22412 22466
+TACAAAAAGATA : 5 matches; Starting positions: 16791 22272 22359 22413 22467
+ACAAAAAGATAT : 5 matches; Starting positions: 16792 22273 22360 22414 22468
+CAAAAAGATATA : 6 matches; Starting positions: 16793 22274 22361 22415 22469 22523
+AAAAAGATATAT : 6 matches; Starting positions: 16794 22275 22362 22416 22470 22524
+AAAAGATATATC : 6 matches; Starting positions: 16795 22276 22363 22417 22471 22525
+AAAGATATATCT : 6 matches; Starting positions: 16796 22277 22364 22418 22472 22526
+AAGATATATCTA : 6 matches; Starting positions: 16797 22278 22365 22419 22473 22527
+AGATATATCTAA : 3 matches; Starting positions: 16798 22279 22528
+GATATATCTAAT : 3 matches; Starting positions: 16799 22280 22529
+TATATCTAATTT : 3 matches; Starting positions: 16801 22282 22531
+ATATCTAATTTA : 4 matches; Starting positions: 16802 16856 22283 22532
+TATCTAATTTAG : 3 matches; Starting positions: 16803 16857 22284
+ATCTAATTTAGA : 3 matches; Starting positions: 16804 16858 22285
+TCTAATTTAGAT : 3 matches; Starting positions: 16805 16859 22286
+CTAATTTAGATA : 3 matches; Starting positions: 16806 16860 22287
+TTTAGATATCAA : 3 matches; Starting positions: 16810 22291 22378
+TGTAGAAAAGAA : 4 matches; Starting positions: 16831 16918 22399 22453
+GTAGAAAAGAAT : 4 matches; Starting positions: 16832 16919 22400 22454
+TAGAAAAGAATT : 4 matches; Starting positions: 16833 16920 22401 22455
+AGAAAAGAATTT : 4 matches; Starting positions: 16834 16921 22402 22456
+GAAAAGAATTTA : 4 matches; Starting positions: 16922 16988 22403 22457
+CCAAAATAGATA : 4 matches; Starting positions: 16938 22440 22494 22548
+CAAAATAGATAG : 5 matches; Starting positions: 16939 22387 22441 22495 22549
+AAAATAGATAGT : 5 matches; Starting positions: 16940 22334 22388 22442 22550
+AAATAGATAGTG : 5 matches; Starting positions: 16941 22335 22389 22443 22551
+AATAGATAGTGT : 5 matches; Starting positions: 16942 22336 22390 22444 22552
+AAAACAAAAAAA : 3 matches; Starting positions: 19743 28295 29672
+AAGAATTTACAA : 4 matches; Starting positions: 22265 22352 22406 22460
+AGAATTTACAAA : 4 matches; Starting positions: 22266 22353 22407 22461
+GAATTTACAAAA : 4 matches; Starting positions: 22267 22354 22408 22462
+ATAGATAGTGTA : 4 matches; Starting positions: 22337 22391 22445 22553
+TAGATAGTGTAG : 4 matches; Starting positions: 22338 22392 22446 22554
+AGATAGTGTAGA : 4 matches; Starting positions: 22339 22393 22447 22555
+AGATATATCTAG : 3 matches; Starting positions: 22366 22420 22474
+GATATATCTAGT : 3 matches; Starting positions: 22367 22421 22475
+ATATATCTAGTT : 3 matches; Starting positions: 22368 22422 22476
+TATATCTAGTTT : 3 matches; Starting positions: 22369 22423 22477
+ATATCTAGTTTA : 3 matches; Starting positions: 22370 22424 22478
+GATAGTGTAGAA : 3 matches; Starting positions: 22394 22448 22556
+ATAGTGTAGAAA : 3 matches; Starting positions: 22395 22449 22557
+TAGTGTAGAAAA : 3 matches; Starting positions: 22396 22450 22558
+AGTGTAGAAAAG : 3 matches; Starting positions: 22397 22451 22559
+GTGTAGAAAAGA : 3 matches; Starting positions: 22398 22452 22560
+TTTAAACACCAA : 3 matches; Starting positions: 22432 22486 22540
+TTAAACACCAAA : 3 matches; Starting positions: 22433 22487 22541
+TAAACACCAAAA : 3 matches; Starting positions: 22434 22488 22542
+AAACACCAAAAT : 3 matches; Starting positions: 22435 22489 22543
+AACACCAAAATA : 3 matches; Starting positions: 22436 22490 22544
+ACACCAAAATAG : 3 matches; Starting positions: 22437 22491 22545
+CACCAAAATAGA : 3 matches; Starting positions: 22438 22492 22546
+ACCAAAATAGAT : 3 matches; Starting positions: 22439 22493 22547
+CAAGAGAATTTA : 3 matches; Starting positions: 22954 23250 24326
+CAAAAACGAAAA : 3 matches; Starting positions: 26031 27401 27542
+
+
+>AE001581.1 Borrelia burgdorferi B31 plasmid cp32-9
+Total matched sequences: 51
+
+CTTTAGCATTAA : 3 matches; Starting positions: 939 7753 13066
+TTTAGCATTAAT : 3 matches; Starting positions: 940 7754 13067
+AGAAAAAGAAGA : 3 matches; Starting positions: 1322 9605 26997
+AGGCTGGTGGTG : 3 matches; Starting positions: 2277 3153 3652
+GGCTGGTGGTGG : 3 matches; Starting positions: 2278 3154 3653
+GCTGGTGGTGGG : 3 matches; Starting positions: 2279 3155 3654
+AAAAATTAATGA : 3 matches; Starting positions: 3944 10383 10454
+AAAATTAATGAT : 3 matches; Starting positions: 3945 10384 10455
+AAATTAATGATA : 3 matches; Starting positions: 3946 10385 10456
+AATTAATGATAT : 3 matches; Starting positions: 3947 10386 10457
+ATTAATGATATT : 3 matches; Starting positions: 3948 10387 10458
+AAAATATTTGAA : 3 matches; Starting positions: 4512 16029 20131
+AAAAAAGAGAAA : 3 matches; Starting positions: 5239 24289 27326
+AAATATTTAAAG : 3 matches; Starting positions: 6209 14591 24953
+GAAAAGAAAAAA : 3 matches; Starting positions: 6930 10363 10435
+AAATATCTTAAA : 3 matches; Starting positions: 9075 19750 27766
+TCTAAATTTGAA : 3 matches; Starting positions: 9168 15584 27784
+TATTAATAATAA : 3 matches; Starting positions: 10329 17275 23726
+AGGAAAAAATTA : 3 matches; Starting positions: 10379 10450 19856
+AAAAAATTAAAA : 3 matches; Starting positions: 15285 19826 24530
+CTAAAATAGATA : 3 matches; Starting positions: 16828 22469 22544
+TAAAATAGATAG : 3 matches; Starting positions: 16829 22437 22545
+AAAATAGATAGT : 4 matches; Starting positions: 16830 17004 22438 22546
+AAATAGATAGTG : 4 matches; Starting positions: 16831 17005 22439 22547
+AATAGATAGTGT : 4 matches; Starting positions: 16832 17006 22440 22548
+ATACTAAAATAG : 3 matches; Starting positions: 16858 22541 29066
+TACTAAAATAGA : 3 matches; Starting positions: 16859 22542 29067
+AATGTAGAAAAG : 3 matches; Starting positions: 16872 17079 22381
+ATGTAGAAAAGA : 4 matches; Starting positions: 16873 17080 22328 22382
+TGTAGAAAAGAA : 6 matches; Starting positions: 16874 16928 16982 17081 22329 22383
+GTAGAAAAGAAT : 6 matches; Starting positions: 16875 16929 16983 17082 22330 22384
+TAGAAAAGAATT : 7 matches; Starting positions: 16876 16930 16984 17083 21493 22331 22385
+AGAAAAGAATTT : 7 matches; Starting positions: 16877 16931 16985 17084 21494 22332 22386
+GAAAAGAATTTA : 5 matches; Starting positions: 16878 16932 16986 17085 22387
+AAAAGAATTTAA : 5 matches; Starting positions: 16879 16933 16987 17086 22388
+AAAGAATTTAAA : 4 matches; Starting positions: 16880 16934 16988 22389
+AAGAATTTAAAT : 4 matches; Starting positions: 16881 16935 16989 22390
+GTTTAGATACTA : 4 matches; Starting positions: 16906 16960 22361 22481
+TTTAGATACTAA : 4 matches; Starting positions: 16907 16961 22362 22482
+TTAGATACTAAG : 4 matches; Starting positions: 16908 16962 22363 22483
+TAGATACTAAGA : 4 matches; Starting positions: 16909 16963 22364 22484
+AGATACTAAGAT : 5 matches; Starting positions: 16910 16964 19729 22365 22485
+GATACTAAGATA : 4 matches; Starting positions: 16911 16965 22366 22486
+ATACTAAGATAG : 4 matches; Starting positions: 16912 16966 22367 22487
+TACTAAGATAGA : 4 matches; Starting positions: 16913 16967 22368 22488
+ACTAAGATAGAT : 4 matches; Starting positions: 16914 16968 22369 22489
+CTAAGATAGATA : 4 matches; Starting positions: 16915 16969 22370 22490
+GAACAACAAAAA : 3 matches; Starting positions: 17625 27262 27349
+AAAACAAAAAAA : 3 matches; Starting positions: 19819 20212 29438
+AGAATTTAAATA : 3 matches; Starting positions: 22424 22798 23087
+AAAAATAAATAT : 3 matches; Starting positions: 23631 28250 29346
+
+

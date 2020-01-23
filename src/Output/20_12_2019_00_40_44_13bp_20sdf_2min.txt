@@ -1,0 +1,11 @@
+/Users/kaizshen/Documents/Intern/bpseqmatch/src/Output/20_12_2019_00_40_44_13bp_20sdf_2min.txt
+
+bp_length: 13; starting point difference: 20; minimum matches accounted: 2
+
+>CP001652.1 Borrelia burgdorferi JD1 plasmid JD1_lp54
+Total matched sequences: 2
+
+ATTAATATTAATT : 2 matches; Starting positions: 563 653
+TTAATATTAATTT : 2 matches; Starting positions: 564 654
+
+
